@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-batman-requires",
+  "version": "0.0.1",
+  "description": "prevent requiring modules from parent directories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": "^0.17.1"
+  },
+  "author": "Jon Jensen",
+  "license": "ISC",
+  "dependencies": {
+    "minimatch": "^2.0.4"
+  }
+}
